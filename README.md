@@ -16,3 +16,11 @@
 - POST /api/products
 - PUT /api/products/{id}
 - DELETE /api/products/{id}
+
+
+## Seeder 
+- php artisan migrate
+
+## Seeder 
+- php artisan db:seed --class=RolePermissionSeeder
+
